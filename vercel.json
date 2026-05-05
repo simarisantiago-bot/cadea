@@ -1,0 +1,7 @@
+{
+  "buildCommand": "echo 'Static site, no build needed'",
+  "outputDirectory": "web",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
